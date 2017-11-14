@@ -1,0 +1,11 @@
+<?php
+
+	//use Defuse\Crypto\Key;
+	include_once("Defuse\Crypto\Key.php");
+
+	$key = key::createNewRandomKey();
+
+	//echo $key->saveToAsciiSafeString();
+	echo "hello";
+
+?>

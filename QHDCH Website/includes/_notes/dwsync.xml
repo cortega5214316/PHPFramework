@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Activation.php" server="//192.168.1.148/qhdch_site/" local="131393674200000000" remote="131393674200000000" />
+<file name="Client.class.php" server="//192.168.1.148/qhdch_site/" local="131076756000000000" remote="131076756000000000" />
+<file name="Core.php" server="//192.168.1.148/qhdch_site/" local="131205492000000000" remote="131205492000000000" />
+<file name="Crypto.php" server="//192.168.1.148/qhdch_site/" local="131205492000000000" remote="131205492000000000" />
+<file name="DataBase.class.php" server="//192.168.1.148/qhdch_site/" local="131393670600000000" remote="131393670600000000" />
+<file name="DataObject.class.php" server="//192.168.1.148/qhdch_site/" local="131277204000000000" remote="131277204000000000" />
+<file name="DerivedKeys.php" server="//192.168.1.148/qhdch_site/" local="131205492000000000" remote="131205492000000000" />
+<file name="Encoding.php" server="//192.168.1.148/qhdch_site/" local="131273748000000000" remote="131273748000000000" />
+<file name="File.php" server="//192.168.1.148/qhdch_site/" local="131205492000000000" remote="131205492000000000" />
+<file name="Key.php" server="//192.168.1.148/qhdch_site/" local="131205492000000000" remote="131205492000000000" />
+<file name="KeyOrPassword.php" server="//192.168.1.148/qhdch_site/" local="131205492000000000" remote="131205492000000000" />
+<file name="KeyProtectedByPassword.php" server="//192.168.1.148/qhdch_site/" local="131205492000000000" remote="131205492000000000" />
+<file name="Language.Class.php" server="//192.168.1.148/qhdch_site/" local="131035284000000000" remote="131035284000000000" />
+<file name="Loginup.php" server="//192.168.1.148/qhdch_site/" local="130787316000000000" remote="130787316000000000" />
+<file name="RuntimeTests.php" server="//192.168.1.148/qhdch_site/" local="131205492000000000" remote="131205492000000000" />
+<file name="SecurityConfig.php" server="//192.168.1.148/qhdch_site/" local="131075892000000000" remote="131075892000000000" />
+<file name="User.php" server="//192.168.1.148/qhdch_site/" local="131379156000000000" remote="131379156000000000" />
+<file name="config.php" server="//192.168.1.148/qhdch_site/" local="131506618200000000" remote="131506618200000000" />
+<file name="country_list.php" server="//192.168.1.148/qhdch_site/" local="130765716000000000" remote="130765716000000000" />
+<file name="day_list.php" server="//192.168.1.148/qhdch_site/" local="130765716000000000" remote="130765716000000000" />
+<file name="day_list_es.php" server="//192.168.1.148/qhdch_site/" local="131275476000000000" remote="131275476000000000" />
+<file name="db_connect.php" server="//192.168.1.148/qhdch_site/" local="131393673000000000" remote="131393673000000000" />
+<file name="defines.php" server="//192.168.1.148/qhdch_site/" local="131275476000000000" remote="131275476000000000" />
+<file name="header_menu.php" server="//192.168.1.148/qhdch_site/" local="131283252000000000" remote="131283252000000000" />
+<file name="keygen.php~" server="//192.168.1.148/qhdch_site/" local="131272884000000000" remote="131272884000000000" />
+<file name="signup.php" server="//192.168.1.148/qhdch_site/" local="131393673000000000" remote="131393673000000000" />
+<file name="year_list.php" server="//192.168.1.148/qhdch_site/" local="130765716000000000" remote="130765716000000000" />
+<file name="year_list_es.php" server="//192.168.1.148/qhdch_site/" local="131276340000000000" remote="131276340000000000" />
+<file name="config.php" server="192.168.1.148/qhdch_site/" local="131506618200000000" remote="131506618200000000" />
+<file name="Settings.php" server="//192.168.1.148/qhdch_site/" local="131544247343281250" remote="131544139200000000" />
+<file name="Settings.php" server="192.168.1.148/qhdch_site/" local="131544247343281250" remote="131549327400000000" />
+<file name="BrowserSettings.php" server="//192.168.1.148/qhdch_site/" local="131543223000000000" remote="131543223000000000" />
+<file name="ClientBrowser.Class.php" server="//192.168.1.148/qhdch_site/" local="131544065284843750" remote="131543956800000000" />
+</dwsync>

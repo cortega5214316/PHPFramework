@@ -1,0 +1,13 @@
+<?php
+
+	//include_once("/var/www/html/qhdch_site/includes/encryption/Key.php");
+	include_once("includes/encryption/Key.php");
+
+	//$key = key::createNewRandomKey();
+
+	//$key = random_bytes(32);
+
+	//echo $key->saveToAsciiSafeString();
+	echo "hello => ". $key;
+
+?>
